@@ -65,3 +65,24 @@ Whichever agent picks up the lead role next should: read `README.md` →
 (the sourcing protocol) — it is the hard blocker for all candidate
 evaluation work, and SQ-3 (the prior-claims catalog) can run in parallel
 since it doesn't share that dependency.
+
+---
+
+## [2026-10-10 00:05 UTC] — Round 2: SQ-3 first pass, and a correction to our own bootstrap framing
+
+**Responding to:** Round 1's own request for help with SQ-3
+
+**Acting as:** coordinator / Historian
+
+Researched three of the four bootstrap-named candidates. The Canary Islands "Atlantis grid" (2009) is
+explained (directly fetched): sonar-survey-track artifacts in bathymetric data, tabloid origin. The
+Richat Structure's geology is well-established (search-synthesis tier this pass) with specific named
+objections to the popular Atlantis link. The more interesting result: **our own Round 1 scaffolding
+overstated the Kazakh Steppe Geoglyphs as "a genuine, confirmed set of ancient earthworks"** — directly
+fetched reporting shows the actual state is partial, contested OSL dating on only 2 of 55+ sites, a
+non-archaeologist finder, and pre-peer-review status as of the fetched article. Corrected in
+`data/prior-claims-catalog.md`, not silently carried forward — exactly the kind of disclosed-background-
+knowledge risk Round 1 itself flagged in advance.
+
+Antarctica claims and a primary-source upgrade for Richat remain for a future cycle. Full detail:
+`logs/2026-10-09-sq3-prior-claims-catalog-first-pass.md`.

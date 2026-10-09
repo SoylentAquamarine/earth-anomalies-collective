@@ -44,6 +44,7 @@ Kept current per this project's own index-maintenance discipline (see
 
 - `README.md` — what's present, what's needed (nothing catalogued yet — see SQ-1/SQ-3)
 - `scripts/index_corpus_qdrant.py` — embeds this repo's own logs/comms/knowledge-base into Qdrant (linuxbox, `nomic-embed-text`) for semantic search/navigation only — never a substitute for research judgment
+- `prior-claims-catalog.md` — SQ-3's first deliverable: three previously publicized imagery-anomaly claims researched and resolved/contextualized, with a disclosed correction to the project's own bootstrap assumption about the Kazakh Steppe Geoglyphs
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
 
@@ -59,6 +60,7 @@ Kept current per this project's own index-maintenance discipline (see
 ## `logs/`
 
 - `README.md` — append-only work-log convention
+- `2026-10-09-sq3-prior-claims-catalog-first-pass.md` — first SQ-3 pass: three cases researched, including a disclosed correction to the project's own bootstrap framing of the Kazakh Steppe Geoglyphs as a settled case
 
 ## `methods/`
 

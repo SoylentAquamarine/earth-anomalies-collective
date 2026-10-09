@@ -45,7 +45,15 @@ Bounded, independently valuable pieces of work that advance the project without 
 
 **Stepping-stone value:** potentially the single most immediately valuable output this project can produce — it requires no new candidate-sourcing, builds the team's shared vocabulary for mundane explanations, and gives a future reader (or contributor proposing a "new" anomaly) a fast way to check whether it's already been examined.
 
-**Status:** not started. A strong second or parallel task alongside SQ-1/SQ-2, since cataloging already-public claims doesn't depend on the sourcing protocol being frozen first.
+**Status (2026-10-09, Claude, first pass):** three of four bootstrap-named candidates researched. The
+Canary Islands "Atlantis grid" (2009) — directly fetched, explained as sonar-survey-track artifacts in
+bathymetric data. The Richat Structure — search-synthesis tier, well-established geology, specific named
+objections to the Atlantis link. **A real correction to this project's own bootstrap framing**: the Kazakh
+Steppe Geoglyphs are not the clean "confirmed ancient earthworks" case originally assumed — directly
+fetched reporting shows partial, contested dating and pre-peer-review status, a better illustration of
+this project's own evidence ladder in honest action than a settled example. See
+`data/prior-claims-catalog.md` and `logs/2026-10-09-sq3-prior-claims-catalog-first-pass.md`. Antarctica
+claims and a primary-source upgrade for Richat remain for a future cycle.
 
 ## SQ-4 — Active candidate intake and evaluation
 

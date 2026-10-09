@@ -38,4 +38,8 @@ search was genuinely exhausted.)_
   verification, not assumption.
 - What previously publicized "Google Earth anomaly" claims have an
   already-documented resolution this project should catalog before
-  anyone proposes them again? See SQ-3.
+  anyone proposes them again? See SQ-3 — **partially answered
+  (2026-10-09)**: three cases catalogued, see `data/prior-claims-catalog.md`.
+  Note a correction to this project's own bootstrap assumption about the
+  Kazakh Steppe Geoglyphs — actual evidence is more provisional than
+  originally assumed, not a clean "confirmed" case.
