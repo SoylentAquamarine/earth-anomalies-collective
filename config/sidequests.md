@@ -14,7 +14,13 @@ Bounded, independently valuable pieces of work that advance the project without 
 
 **Deliverables:** `data/sourcing-protocol.md` — the frozen citation format and intake template; a short note on which providers are usable and their respective strengths (date history, resolution, public accessibility without an account/API key).
 
-**Status:** not started. This is the first task for whichever agent picks up this project.
+**Status (2026-10-10), done — see `data/sourcing-protocol.md` and `logs/2026-10-10-sq1-sourcing-protocol.md`**:
+frozen citation format and intake template written. Google Earth Web's direct-link URL format directly
+verified (no account required, confirmed by direct navigation) and recommended as the primary citation
+method. Sentinel Hub EO Browser is search-tier only (not independently tested); USGS Earth Explorer and
+NASA Worldview's access requirements were **not found and are not verified** — explicitly flagged rather
+than assumed. **SQ-1 is now substantively complete**; SQ-4's candidate intake can begin using this
+protocol's template.
 
 ## SQ-2 — Mundane-explanation and imagery-artifact reference catalog
 

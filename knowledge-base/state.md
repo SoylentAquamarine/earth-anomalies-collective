@@ -32,7 +32,10 @@ search was genuinely exhausted.)_
 ## Open Questions
 
 - What is the right frozen citation format for a reproducible imagery
-  claim (coordinates, provider, date, zoom)? See SQ-1.
+  claim (coordinates, provider, date, zoom)? See SQ-1 — **answered
+  (2026-10-10)**: see `data/sourcing-protocol.md`. Google Earth Web
+  directly verified as a no-account, direct-link-capable source; other
+  providers remain unverified, explicitly flagged.
 - Which public imagery providers offer historical-date browsing, and how
   reliable is their exposed capture-date metadata? Needs direct
   verification, not assumption.
