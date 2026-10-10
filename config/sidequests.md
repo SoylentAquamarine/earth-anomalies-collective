@@ -54,6 +54,14 @@ mechanisms reported honestly rather than flattened to one). Three of six/seven b
 lines, oxbow scars, agricultural patterns) and the entire human-made-explanations section remain uncited.
 Land-imagery pipeline artifacts also still untouched — the clearest next unclaimed thread.
 
+**Update (2026-10-10), three more natural-formation categories cited — see
+`logs/2026-10-10-sq2-three-more-natural-formation-citations.md`**: fault lines/lineaments (NASA/USGS-
+cross-checked, explicitly disclosing documented cases where a linear scarp turned out not to be tectonic),
+oxbow lakes/meander scars (Britannica-sourced), and agricultural center-pivot/contour patterns (USGS
+imagery + a NASA-quoted Sahara example). **Five of six/seven natural-formation categories now cited** —
+only volcanic/impact structures remains. The entire human-made-explanations and land-imagery-pipeline-
+artifacts sections remain completely untouched — the clearest, largest remaining gap.
+
 ## SQ-3 — Prior-claims catalog (central deliverable)
 
 **Purpose:** directly modeled on the sibling Oak Island and Phaistos Disc projects' own prior-claims catalogs. Document the many years of publicly circulated "Google Earth anomaly" claims and their documented resolution status, so this project doesn't re-litigate already-settled cases and a reader can check "has this specific claim already been examined" before anyone proposes it again.

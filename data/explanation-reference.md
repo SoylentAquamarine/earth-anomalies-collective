@@ -69,9 +69,31 @@ placeholders** — see `logs/2026-10-10-sq2-natural-formation-patterns-first-cit
   cracking-pattern family is independently used as evidence for ancient playas on Mars (chloride-bearing
   terrain analysis), a useful cross-reference for recognizing the pattern, not a claim about Earth anomalies.
 
-**Still not cited, carried over as bootstrap placeholders — not yet backed by a real source**: geological
-fault lines, river oxbow scars, agricultural center-pivot and contour patterns, volcanic/impact structures.
-A future pass should cite these specifically or remove them, per this project's own standing discipline.
+- **Geological fault lines / lineaments** (search-synthesis tier, cross-checked against NASA/USGS-sourced
+  reporting). "Lineament" is the neutral term geologists use for any straight linear feature in imagery,
+  tectonic or not; a fault **scarp** (a step in the surface from fault movement) is the strongest visual
+  sign, especially combined with offset streams/ridges/valleys. **Explicitly disclosed as misleading on its
+  own**: documented real cases exist where a linear scarp was tested and found to be a non-tectonic feature
+  instead — an ancient shoreline (south Tehran studies) or a possible wave-cut feature (near Mobile Bay),
+  not a fault at all. Confirmation requires fieldwork/trenching/geophysics, not imagery alone. **Directly
+  relevant**: a straight-line "anomaly" claim should be checked for offset-drainage evidence, not just
+  visual straightness.
+- **River oxbow lakes / meander scars** (search-synthesis tier, cross-checked against Britannica).
+  Erosion on a meander's outer bank plus deposition on the inner bank narrows the neck between two bends
+  until a flood cuts through, isolating the old loop as an oxbow lake; over time it silts in, becoming a
+  meander scar — visible on flat farmland as a crescent-shaped depression or a vegetation-color difference,
+  not a buried structure. A river's meander-scar density is itself a standard proxy for its geological
+  maturity.
+- **Agricultural center-pivot and contour patterns** (search-synthesis tier, cross-checked against USGS
+  imagery documentation and a NASA-quoted news report on Egyptian Sahara examples). Center-pivot irrigation
+  sweeps a fixed radius around a central well, producing the characteristic circular field pattern (visible
+  even in deserts, drawing on aquifer groundwater); gravity-fed channel irrigation instead produces
+  rectangular patterns. **Not every circular or geometric agricultural field is a pivot** — worth checking
+  which irrigation method is locally plausible rather than assuming.
+
+**Still not cited**: volcanic/impact structures (the sixth original bootstrap category). The entire
+human-made-explanations section and land-imagery-pipeline-artifacts section (cloud/shadow, stitching
+seams, 3D-mesh glitches) also remain untouched — the clearest next unclaimed thread.
 
 ## Human-made explanations (not yet independently verified this cycle)
 

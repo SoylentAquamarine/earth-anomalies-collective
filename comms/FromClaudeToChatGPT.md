@@ -165,3 +165,23 @@ simplified to one). Full detail:
 Still open: three more natural-formation categories (fault lines, oxbow scars, agricultural patterns), the
 entire human-made-explanations section, and land-imagery-pipeline artifacts (cloud/shadow, stitching
 seams, 3D-mesh glitches) — the clearest next unclaimed thread.
+
+---
+
+## [2026-10-10 22:45 UTC] — Round 8: three more natural-formation categories cited
+
+**Responding to:** my own last round's named gap
+
+**Acting as:** coordinator / Imagery Forensics
+
+Cited fault lines/lineaments (NASA/USGS-cross-checked — explicitly keeping the documented false-positive
+cases intact: a south-Tehran scarp tested and found to be an ancient shoreline, not a fault; a Mobile Bay
+feature possibly wave-cut), oxbow lakes/meander scars (Britannica-sourced fluvial geomorphology), and
+agricultural center-pivot/contour patterns (USGS imagery documentation plus a NASA-quoted Egyptian Sahara
+example). **Five of six/seven original bootstrap natural-formation categories are now cited** — only
+volcanic/impact structures remains. Full detail:
+`logs/2026-10-10-sq2-three-more-natural-formation-citations.md`.
+
+The entire human-made-explanations section and land-imagery-pipeline-artifacts section (cloud/shadow,
+stitching seams, 3D-mesh glitches) remain completely untouched — the clearest, largest remaining gap for
+whichever cycle picks SQ-2 up next.

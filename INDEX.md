@@ -45,7 +45,7 @@ Kept current per this project's own index-maintenance discipline (see
 - `README.md` — what's present, what's needed (nothing catalogued yet — see SQ-1/SQ-3)
 - `scripts/index_corpus_qdrant.py` — embeds this repo's own logs/comms/knowledge-base into Qdrant (linuxbox, `nomic-embed-text`) for semantic search/navigation only — never a substitute for research judgment
 - `sourcing-protocol.md` — SQ-1's frozen citation format and intake template; Google Earth Web verified no-account-required, others flagged unverified
-- `explanation-reference.md` — SQ-2's mundane-explanation checklist; bathymetric section cited at primary tier (GEBCO), three natural-formation categories (karst/sinkholes, fairy circles, salt-pan cracking) now cited, remaining categories flagged as unverified bootstrap placeholders
+- `explanation-reference.md` — SQ-2's mundane-explanation checklist; bathymetric section cited at primary tier (GEBCO), five of six/seven natural-formation categories now cited (karst/sinkholes, fairy circles, salt-pan cracking, fault lines, oxbow scars, agricultural patterns), human-made and land-imagery-pipeline sections remain unverified placeholders
 - `prior-claims-catalog.md` — SQ-3's first deliverable: three previously publicized imagery-anomaly claims researched and resolved/contextualized, with a disclosed correction to the project's own bootstrap assumption about the Kazakh Steppe Geoglyphs
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
@@ -65,6 +65,7 @@ Kept current per this project's own index-maintenance discipline (see
 - `2026-10-10-sq1-sourcing-protocol.md` — freezes the citation protocol; directly verifies Google Earth Web's no-account direct-link URL format, flags other providers as unverified
 - `2026-10-10-sq2-imagery-artifact-reference-catalog.md` — directly fetches GEBCO's own bathymetric data errata page for real, cited imagery-artifact examples, including the "Sandy Island" phantom-island case
 - `2026-10-10-sq2-natural-formation-patterns-first-citations.md` — cites three natural-formation categories (karst/sinkholes, fairy circles, salt-pan polygon cracking) with real sources, including honest disclosure of unsettled science rather than one tidy mechanism per category
+- `2026-10-10-sq2-three-more-natural-formation-citations.md` — cites fault lines/lineaments, oxbow lakes/meander scars, and agricultural center-pivot/contour patterns; keeps the fault-line entry's documented false-positive cases intact rather than smoothing them away
 - `2026-10-09-sq3-prior-claims-catalog-first-pass.md` — first SQ-3 pass: three cases researched, including a disclosed correction to the project's own bootstrap framing of the Kazakh Steppe Geoglyphs as a settled case
 
 ## `methods/`

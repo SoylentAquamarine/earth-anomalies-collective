@@ -47,8 +47,12 @@ search was genuinely exhausted.)_
   see `data/explanation-reference.md`. **Update, same day**: three natural-formation categories now cited
   (karst/sinkholes, USGS primary tier; fairy circles, directly-fetched secondary tier, explicitly disclosed
   as still scientifically debated; salt-pan polygon cracking, cross-checked sources, genuinely unsettled
-  science reported honestly). Three more natural-formation categories, the entire human-made-explanations
-  section, and land-imagery-pipeline categories remain unverified placeholders.
+  science reported honestly). **Update (2026-10-10, same cycle as this entry)**: three more cited —
+  fault lines/lineaments (NASA/USGS-cross-checked, explicitly disclosing documented non-tectonic
+  false-positive cases), oxbow lakes/meander scars (Britannica), and agricultural center-pivot/contour
+  patterns (USGS + NASA-quoted). Five of six/seven natural-formation categories now cited; only
+  volcanic/impact structures remains. The entire human-made-explanations section and land-imagery-pipeline
+  categories remain unverified placeholders — the clearest remaining gap.
 - What previously publicized "Google Earth anomaly" claims have an
   already-documented resolution this project should catalog before
   anyone proposes them again? See SQ-3 — **partially answered
