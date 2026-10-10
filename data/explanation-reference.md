@@ -39,13 +39,39 @@ public errata list. Documented causes, with real examples:
 shallow water forcing interpolation, navigation/trackline distortion, mismatched source-dataset
 conventions, and incorrect data-processing/labeling.
 
-## Natural-formation patterns (not yet independently verified this cycle — carried over from bootstrap scaffolding, flagged as unverified)
+## Natural-formation patterns
 
-- Geological fault lines, karst topography, patterned ground/fairy circles, salt-pan polygon cracking,
-  river oxbow scars, agricultural center-pivot and contour patterns, volcanic/impact structures.
-- **Status: not yet cited.** These categories were named in the project's own bootstrap scaffolding from
-  general background knowledge, not yet backed by a real source. Do not rely on this list as verified —
-  a future pass should either cite each specifically or remove unverifiable entries.
+**Three of the original six bootstrap categories are now directly cited; three remain unverified
+placeholders** — see `logs/2026-10-10-sq2-natural-formation-patterns-first-citations.md` for full sourcing.
+
+- **Karst topography / sinkholes** (directly fetched, primary tier: USGS Water Science School). Form where
+  groundwater dissolves soluble bedrock (limestone, carbonate rock, salt beds), creating underground
+  cavities; collapse occurs when the overlying land loses support, sometimes triggered by groundwater
+  pumping, construction, or added load. Shapes vary — "shallow bowls or saucers" to vertical-walled pits,
+  sometimes eroding into shallower bowl depressions over time. **Directly relevant to circular/depression
+  "anomaly" claims on land**, the land-imagery analog of the bathymetric section's own caution above.
+- **Patterned ground / "fairy circles"** (directly fetched, secondary-but-specific tier: ScienceAlert's
+  reporting on Getzin et al., *Journal of Ecology*, 2020). Leading mechanism: a Turing-type
+  self-organization pattern from grasses competing for scarce water in arid environments — bare circles
+  channel runoff to surrounding vegetation. Evidenced by drone surveys and soil-moisture sensors near
+  Newman, Western Australia; found that healthier, more moisture-dependent grasses correlate more strongly
+  with the circles. **Explicitly disclosed as still actively debated**, not settled — rival termite and
+  toxic-chemical hypotheses exist, and the Australian find specifically weakened the termite explanation
+  (no termite link found there). The paper's own authors state more field work is needed.
+- **Salt-pan polygon cracking** (search-synthesis tier, multiple cross-checked sources). Classic
+  desiccation-cracking (surface drying → shrinkage → tensile stress → propagating cracks meeting to form
+  polygons) explains clay/mud playas well, but is **actively disputed specifically for salt crusts** —
+  salt's solubility and widely varying crust thickness undermine a simple desiccation account for the
+  typically consistent 1-2 m polygon diameters observed. Competing mechanisms proposed: thermal
+  contraction (analogous to basalt columnar jointing), halite crystal growth buckling the crust from below,
+  and brine-driven ridge formation along crack boundaries (a 2023 modelling paper). **No single mechanism
+  is settled** — recorded honestly as genuinely open science, not resolved by this project. The same
+  cracking-pattern family is independently used as evidence for ancient playas on Mars (chloride-bearing
+  terrain analysis), a useful cross-reference for recognizing the pattern, not a claim about Earth anomalies.
+
+**Still not cited, carried over as bootstrap placeholders — not yet backed by a real source**: geological
+fault lines, river oxbow scars, agricultural center-pivot and contour patterns, volcanic/impact structures.
+A future pass should cite these specifically or remove them, per this project's own standing discipline.
 
 ## Human-made explanations (not yet independently verified this cycle)
 

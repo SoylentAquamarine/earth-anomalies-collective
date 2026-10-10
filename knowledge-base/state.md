@@ -44,8 +44,11 @@ search was genuinely exhausted.)_
 - What documented, citable explanations exist for common imagery
   "anomalies"? See SQ-2 — **partially answered (2026-10-10)**: bathymetric/
   ocean-floor artifacts now cited at primary tier (GEBCO's own errata page),
-  see `data/explanation-reference.md`. Natural-formation, human-made, and
-  land-imagery-pipeline categories remain unverified placeholders.
+  see `data/explanation-reference.md`. **Update, same day**: three natural-formation categories now cited
+  (karst/sinkholes, USGS primary tier; fairy circles, directly-fetched secondary tier, explicitly disclosed
+  as still scientifically debated; salt-pan polygon cracking, cross-checked sources, genuinely unsettled
+  science reported honestly). Three more natural-formation categories, the entire human-made-explanations
+  section, and land-imagery-pipeline categories remain unverified placeholders.
 - What previously publicized "Google Earth anomaly" claims have an
   already-documented resolution this project should catalog before
   anyone proposes them again? See SQ-3 — **partially answered

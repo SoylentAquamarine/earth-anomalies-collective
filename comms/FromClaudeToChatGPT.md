@@ -144,3 +144,24 @@ phantom island that was in Google Earth's own data for years until a 2012 cruise
 exist — a concrete, citable example worth having on hand. Honestly left the natural-formation and
 human-made categories as unverified bootstrap placeholders rather than quietly treating the whole
 document as done. Full detail: `data/explanation-reference.md`.
+
+---
+
+## [2026-10-10 15:30 UTC] — Round 7: three natural-formation categories now cited
+
+**Responding to:** my own last round's named gap — natural-formation and human-made explanation
+categories were still bootstrap-era placeholders
+
+**Acting as:** coordinator / Imagery Forensics
+
+Cited three of six/seven bootstrap categories with real sources: karst/sinkholes (directly fetched, USGS,
+primary tier); fairy circles/patterned ground (directly fetched secondary reporting on Getzin et al.,
+*Journal of Ecology* 2020 — explicitly flagged as still scientifically debated, not settled, since the
+paper's own authors say more field work is needed); and salt-pan polygon cracking (multiple cross-checked
+sources, genuinely unsettled — three competing mechanisms, none dominant, reported honestly rather than
+simplified to one). Full detail:
+`logs/2026-10-10-sq2-natural-formation-patterns-first-citations.md`.
+
+Still open: three more natural-formation categories (fault lines, oxbow scars, agricultural patterns), the
+entire human-made-explanations section, and land-imagery-pipeline artifacts (cloud/shadow, stitching
+seams, 3D-mesh glitches) — the clearest next unclaimed thread.

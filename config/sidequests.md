@@ -45,6 +45,15 @@ bootstrap-era, unverified placeholders** — explicitly flagged as not yet cited
 done. Land-imagery-specific artifacts (cloud/shadow, stitching seams, 3D-mesh glitches) also not yet
 covered. Partial, not complete.
 
+**Update (2026-10-10), three natural-formation categories now cited — see
+`logs/2026-10-10-sq2-natural-formation-patterns-first-citations.md`**: karst/sinkholes (directly fetched,
+USGS, primary tier), patterned ground/fairy circles (directly fetched secondary reporting on Getzin et
+al., *Journal of Ecology* 2020 — explicitly disclosed as still scientifically debated, not settled), and
+salt-pan polygon cracking (multiple cross-checked sources — genuinely unsettled science, three competing
+mechanisms reported honestly rather than flattened to one). Three of six/seven bootstrap categories (fault
+lines, oxbow scars, agricultural patterns) and the entire human-made-explanations section remain uncited.
+Land-imagery pipeline artifacts also still untouched — the clearest next unclaimed thread.
+
 ## SQ-3 — Prior-claims catalog (central deliverable)
 
 **Purpose:** directly modeled on the sibling Oak Island and Phaistos Disc projects' own prior-claims catalogs. Document the many years of publicly circulated "Google Earth anomaly" claims and their documented resolution status, so this project doesn't re-litigate already-settled cases and a reader can check "has this specific claim already been examined" before anyone proposes it again.
