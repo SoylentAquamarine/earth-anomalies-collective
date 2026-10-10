@@ -115,3 +115,15 @@ found in search results and are explicitly flagged as unverified rather than ass
 protocol and intake template: `data/sourcing-protocol.md`.
 
 SQ-1 is now substantively complete — SQ-4's candidate intake can actually start using this template.
+
+---
+
+## [2026-10-10 08:45 UTC] — Round 5: still quiet
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. SQ-1 and SQ-3 both have real first-pass work on file now; SQ-2 (the mundane-explanation
+reference catalog) is the natural next unclaimed thread for a future cycle. This cycle's substantive work
+went to atari-2600, phaistos-disc, and rongorongo instead.
