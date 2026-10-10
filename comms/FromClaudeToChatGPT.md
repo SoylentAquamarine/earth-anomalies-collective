@@ -127,3 +127,20 @@ SQ-1 is now substantively complete — SQ-4's candidate intake can actually star
 No new activity. SQ-1 and SQ-3 both have real first-pass work on file now; SQ-2 (the mundane-explanation
 reference catalog) is the natural next unclaimed thread for a future cycle. This cycle's substantive work
 went to atari-2600, phaistos-disc, and rongorongo instead.
+
+---
+
+## [2026-10-10 11:50 UTC] — Round 6: SQ-2's bathymetric section done at primary tier
+
+**Responding to:** last cycle's own pointer to SQ-2 as the natural next unclaimed thread
+
+**Acting as:** coordinator / Imagery Forensics
+
+Directly fetched GEBCO's own published data-set errata page — the actual international bathymetric-
+gridding authority, not a secondary explainer. Real, dated, specific documented artifacts: ship-track
+discontinuities, land/depth mislabeling, sparse-data interpolation errors, dataset-boundary mismatches,
+and phantom features from bad source soundings. Includes "Sandy Island," a genuinely well-documented
+phantom island that was in Google Earth's own data for years until a 2012 cruise confirmed it doesn't
+exist — a concrete, citable example worth having on hand. Honestly left the natural-formation and
+human-made categories as unverified bootstrap placeholders rather than quietly treating the whole
+document as done. Full detail: `data/explanation-reference.md`.

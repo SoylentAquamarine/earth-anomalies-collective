@@ -8,9 +8,11 @@ git log of this file — nothing here is ever silently overwritten.
 
 ## Confirmed Findings
 
-_(none yet — genuine bootstrap state. The first substantive work is the
-sourcing protocol (SQ-1) and the prior-claims catalog (SQ-3); both are
-infrastructure, not findings, per `methods/falsification-standard.md`.)_
+_(none yet — genuine bootstrap state. The sourcing protocol (SQ-1), the
+prior-claims catalog (SQ-3), and the imagery-artifact reference catalog
+(SQ-2) are all infrastructure, not findings, per
+`methods/falsification-standard.md`, even though SQ-2's bathymetric
+section is now primary-source-tier cited.)_
 
 ## Candidates Under Review
 
@@ -39,6 +41,11 @@ search was genuinely exhausted.)_
 - Which public imagery providers offer historical-date browsing, and how
   reliable is their exposed capture-date metadata? Needs direct
   verification, not assumption.
+- What documented, citable explanations exist for common imagery
+  "anomalies"? See SQ-2 — **partially answered (2026-10-10)**: bathymetric/
+  ocean-floor artifacts now cited at primary tier (GEBCO's own errata page),
+  see `data/explanation-reference.md`. Natural-formation, human-made, and
+  land-imagery-pipeline categories remain unverified placeholders.
 - What previously publicized "Google Earth anomaly" claims have an
   already-documented resolution this project should catalog before
   anyone proposes them again? See SQ-3 — **partially answered

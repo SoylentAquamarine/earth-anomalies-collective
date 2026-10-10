@@ -34,7 +34,16 @@ protocol's template.
 
 **Deliverables:** `data/explanation-reference.md` (or split into `data/artifact-types.md` and `data/natural-patterns.md` if it grows large) — a reusable, cited checklist the Skeptic applies to every candidate before anything is logged as unexplained.
 
-**Status:** not started. Can begin in parallel with SQ-1.
+**Status (2026-10-10), bathymetric section done at primary tier — see
+`data/explanation-reference.md` and `logs/2026-10-10-sq2-imagery-artifact-reference-catalog.md`**: directly
+fetched GEBCO's own published data-set errata page (the actual international bathymetric-gridding
+authority, not a secondary explainer) — real, dated, specific documented artifacts with named causes
+(ship-track discontinuities, land/depth mislabeling, sparse-data interpolation errors, dataset-boundary
+mismatches, phantom features from bad source soundings). Includes the well-documented "Sandy Island"
+phantom-island case as a concrete example. **Natural-formation and human-made categories remain
+bootstrap-era, unverified placeholders** — explicitly flagged as not yet cited, not silently treated as
+done. Land-imagery-specific artifacts (cloud/shadow, stitching seams, 3D-mesh glitches) also not yet
+covered. Partial, not complete.
 
 ## SQ-3 — Prior-claims catalog (central deliverable)
 
