@@ -68,6 +68,7 @@ Kept current per this project's own index-maintenance discipline (see
 - `2026-10-10-sq2-three-more-natural-formation-citations.md` — cites fault lines/lineaments, oxbow lakes/meander scars, and agricultural center-pivot/contour patterns; keeps the fault-line entry's documented false-positive cases intact rather than smoothing them away
 - `2026-10-11-sq2-volcanic-impact-citation-completes-list.md` — cites volcanic/impact structures (NASA's own Emi Koussi/Aorounga example, plus two documented real confusion cases), completing all seven original natural-formation categories
 - `2026-10-09-sq3-prior-claims-catalog-first-pass.md` — first SQ-3 pass: three cases researched, including a disclosed correction to the project's own bootstrap framing of the Kazakh Steppe Geoglyphs as a settled case
+- `2026-10-11-sq3-antarctica-pyramid-claims.md` — catalogues the bootstrap's last unresearched SQ-3 entry: a natural-geology nunatak/glacial-horn claim and a separate 2022 fabricated-video hoax, resolved differently
 
 ## `methods/`
 

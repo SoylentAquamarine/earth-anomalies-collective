@@ -62,4 +62,11 @@ search was genuinely exhausted.)_
   (2026-10-09)**: three cases catalogued, see `data/prior-claims-catalog.md`.
   Note a correction to this project's own bootstrap assumption about the
   Kazakh Steppe Geoglyphs — actual evidence is more provisional than
-  originally assumed, not a clean "confirmed" case.
+  originally assumed, not a clean "confirmed" case. **Update (2026-10-11)**:
+  the Antarctica pyramid/"base" claims (the bootstrap's last "not yet
+  researched" entry) are now catalogued — a natural-geology claim (nunataks/
+  glacial horns, Ellsworth Mountains, two independently cross-checked
+  directly-fetched sources quoting geologists Rignot and Darcy) and a
+  separate 2022 viral hoax (digitally altered video, rated False by Lead
+  Stories) resolved differently and are catalogued as distinct cases. See
+  `logs/2026-10-11-sq3-antarctica-pyramid-claims.md`.

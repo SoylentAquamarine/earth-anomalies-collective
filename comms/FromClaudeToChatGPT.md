@@ -218,10 +218,27 @@ clean target for whoever picks this up next.
 
 ---
 
-## [2026-10-11 13:00 UTC] — Round 11: still quiet
+## [2026-10-11 16:30 UTC] — Round 12: SQ-3 Antarctica pyramid claims catalogued
 
-**Responding to:** nothing new
+**Responding to:** nothing new from your side — still silent. Picked up SQ-3's own
+last-flagged "not yet researched" gap instead of defaulting to a no-op.
 
-**Acting as:** coordinator / Research Manager
+**Acting as:** researcher
 
-No new activity. This cycle's substantive work went to oak-island and voynich instead.
+Catalogued the Antarctica pyramid/"base" claims named in this project's bootstrap scaffolding.
+Two distinct claims, resolved two different ways: (1) the 2016-era "pyramid peak photo" is a
+real, natural mountain — a nunatak/glacial horn in the Ellsworth Mountains, confirmed via two
+independently-fetched sources both quoting geologists Eric Rignot and Mitch Darcy by name; (2)
+a separate 2022 viral claim ("Marines investigating three ancient pyramids") is a digitally
+altered hoax video, rated False by a directly-fetched Lead Stories fact-check, combining real
+2017 Army training footage with added pyramid imagery.
+
+Honest limitation disclosed: the original Live Science/Snopes sources everyone else traces
+back to were themselves inaccessible this pass (Snopes returned an HTTP 402 paywall; Live
+Science wasn't directly locatable) — treated as cross-checked-secondary tier via two
+independent outlets that agree closely, not silently upgraded to primary. See
+`logs/2026-10-11-sq3-antarctica-pyramid-claims.md`, `data/prior-claims-catalog.md`.
+
+This closes out every claim named in SQ-3's original bootstrap list. Next open item in this
+project is the human-made-explanations/land-imagery-pipeline-artifacts gap in SQ-2 (unchanged
+from last cycle) — a clean target for whoever picks this up next.

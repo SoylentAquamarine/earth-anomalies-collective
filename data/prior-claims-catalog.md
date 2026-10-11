@@ -74,7 +74,27 @@ assumed: it's a good illustration of this project's own evidence ladder in actio
 still-developing case (real physical features, partial and contested dating, pre-peer-review status),
 rather than a settled "anomaly confirmed" example.
 
-## Not yet researched
+## Antarctica pyramid/"base" claims
 
-Antarctica pyramid/"base" claims, named in the bootstrap scaffolding, were not researched this pass —
-a future-cycle target.
+**Claim 1 (photo claim, circulating since ~2016):** a sharply triangular Antarctic mountain
+peak photo presented as evidence of an artificial structure or alien base.
+
+**Resolution — Explained (geology).** The peak, in the Ellsworth Mountains, is a **nunatak**
+(rock peak protruding through an ice sheet) whose specific angular shape is a **glacial horn**,
+formed where three or more glacial cirques erode a mountain from different sides, leaving
+knife-edge arêtes that converge into a pyramid-like summit. Geologists Eric Rignot (UC Irvine:
+"This is just a mountain that looks like a pyramid") and Mitch Darcy (GFZ) are both quoted
+making this point independently in two cross-checked, directly-fetched outlets.
+
+**Claim 2 (viral hoax, 2022):** a claim that U.S. Marines were investigating three ancient
+pyramids in Antarctica, with "lost communications" and leaked footage.
+
+**Resolution — Explained (fabrication), rated False.** Directly fetched Lead Stories fact-check:
+the video is digitally altered, combining real 2017 U.S. Army paratrooper training footage from
+Alaska with added pyramid imagery. A constructed hoax, not a natural-formation
+misidentification.
+
+**Evidentiary tier:** directly fetched for both claims, though the original 2016 Live
+Science/Snopes sources everyone traces back to were themselves inaccessible this pass
+(paywall/not locatable) — see `logs/2026-10-11-sq3-antarctica-pyramid-claims.md` for the full
+disclosed limitation.
