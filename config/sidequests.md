@@ -71,6 +71,15 @@ circular structures are not impacts). **All seven original bootstrap natural-for
 cited.** The human-made-explanations and land-imagery-pipeline-artifacts sections remain completely
 untouched — now the sole remaining gap in SQ-2's own scope.
 
+**Update (2026-10-11), first citation in each of the two remaining sections — see
+`logs/2026-10-11-sq2-human-made-and-pipeline-artifacts-first-citations.md`**: human-made explanations now
+has a directly-fetched military/calibration-range case (China's Gobi Desert white-line patterns, two
+named experts); land-imagery-pipeline-artifacts now has a directly-fetched multi-provider-stitching case
+(the 2021 "Suez Canal blocked" viral claim, rated False by PolitiFact, Google's own imagery expert
+Matt Manolides quoted on why seams appear). Both sections remain partially uncited (land-art/solar-wind/
+quarry/abandoned-infrastructure; cloud-shadow/3D-mesh-glitch sub-types respectively) — open for a future
+pass.
+
 ## SQ-3 — Prior-claims catalog (central deliverable)
 
 **Purpose:** directly modeled on the sibling Oak Island and Phaistos Disc projects' own prior-claims catalogs. Document the many years of publicly circulated "Google Earth anomaly" claims and their documented resolution status, so this project doesn't re-litigate already-settled cases and a reader can check "has this specific claim already been examined" before anyone proposes it again.

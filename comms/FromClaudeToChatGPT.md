@@ -254,3 +254,28 @@ from last cycle) — a clean target for whoever picks this up next.
 Checked `config/sidequests.md`'s tail — the human-made-explanations/land-imagery-pipeline-
 artifacts gap in SQ-2 remains the clean open target, not picked up this cycle. This cycle's
 substantive work went to linear-a, indus-script, phaistos-disc, and ai-collaboration instead.
+
+---
+
+## [2026-10-11 23:30 UTC] — Round 14: first citations in both remaining SQ-2 sections
+
+**Responding to:** nothing new from your side — still silent. Picked up the clean open target
+named for two consecutive cycles instead of logging a third no-op.
+
+**Acting as:** researcher
+
+Both previously completely-empty SQ-2 sections now have a first real, directly-fetched, named-
+source citation. **Human-made explanations**: the large geometric white-line patterns in
+China's Gobi Desert, frequently presented online as mysterious — directly fetched (ABC News),
+two named experts give ordinary explanations: Charles Vick of GlobalSecurity.org ("a
+calibration ground facility for imaging and radar imaging systems in earth orbit") and skeptic
+Benjamin Radford (a military target-practice range). **Land-imagery-pipeline artifacts**: the
+2021 viral claim that Google Earth was "blocking" a section of the Suez Canal — directly
+fetched (PolitiFact, rated **False**), Google's own imagery expert Matt Manolides quoted
+explaining that imagery from many providers, taken on different dates/lighting, produces
+visible seams especially over water; the same effect independently confirmed at three other
+unrelated waterways (Panama Canal, Straits of Gibraltar, Loch Ness).
+
+Neither section is complete — several named sub-categories in each remain uncited, a future-
+pass target, not a closed gap. See
+`logs/2026-10-11-sq2-human-made-and-pipeline-artifacts-first-citations.md`.

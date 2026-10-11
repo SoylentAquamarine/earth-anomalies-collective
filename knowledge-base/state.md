@@ -54,8 +54,13 @@ search was genuinely exhausted.)_
   volcanic/impact structures remains. **Update (2026-10-11)**: volcanic/impact structures now cited too
   (NASA's own paired Emi Koussi/Aorounga example, plus two documented real confusion cases) — **all seven
   natural-formation categories are complete**. See
-  `logs/2026-10-11-sq2-volcanic-impact-citation-completes-list.md`. The human-made-explanations section and
-  land-imagery-pipeline categories remain unverified placeholders — now the sole remaining gap.
+  `logs/2026-10-11-sq2-volcanic-impact-citation-completes-list.md`. **Update (2026-10-11, same cycle as
+  oak-island/voynich/rongorongo work elsewhere)**: both remaining sections now have a first directly-fetched
+  citation — human-made explanations (China's Gobi Desert white-line patterns, two named military/
+  calibration experts) and land-imagery-pipeline artifacts (the 2021 "Suez Canal blocked" viral claim,
+  rated False, Google's own imagery expert quoted on multi-provider stitching seams). Both sections remain
+  partially uncited (several named sub-categories each) — a future-pass target, not a closed gap. See
+  `logs/2026-10-11-sq2-human-made-and-pipeline-artifacts-first-citations.md`.
 - What previously publicized "Google Earth anomaly" claims have an
   already-documented resolution this project should catalog before
   anyone proposes them again? See SQ-3 — **partially answered

@@ -107,16 +107,34 @@ placeholders** — see `logs/2026-10-10-sq2-natural-formation-patterns-first-cit
   isolation from other data. **Diagnostic difference worth naming**: impact craters typically show raised
   rims and ejecta; calderas typically lack them.
 
-**All seven original bootstrap natural-formation categories are now cited.** The entire
-human-made-explanations section and land-imagery-pipeline-artifacts section (cloud/shadow, stitching
-seams, 3D-mesh glitches) remain completely untouched — the clearest next unclaimed thread.
+**All seven original bootstrap natural-formation categories are now cited.** The human-made-
+explanations and land-imagery-pipeline-artifacts sections each now have a first real citation
+(2026-10-11, see below) — both remain partially uncited, a clean target for a future pass.
 
-## Human-made explanations (not yet independently verified this cycle)
+## Human-made explanations
 
-- Military/industrial test ranges, land-art installations, solar/wind farm arrays, quarry/mining
-  operations, abandoned infrastructure. Same status as above — bootstrap-era list, not yet cited.
+- **Military/industrial test ranges and calibration targets — first citation (2026-10-11)**:
+  the large geometric white-line patterns in China's Gobi Desert (~1 mile long, several similar
+  nearby arrays), frequently presented online as mysterious. Directly fetched (ABC News, 2011):
+  Charles Vick of GlobalSecurity.org gives his best guess as "a calibration ground facility for
+  imaging and radar imaging systems in earth orbit"; skeptic Benjamin Radford considers a
+  military target-practice range most likely. A related, not-yet-independently-verified case
+  (Google Earth's 2008-2016 imagery gap over Nevada's Tonopah Test Range) is named as a future
+  direct-fetch target, kept at search-synthesis tier, not merged with the China case above.
+- Land-art installations, solar/wind farm arrays, quarry/mining operations, abandoned
+  infrastructure remain bootstrap-era list items, not yet cited.
 
-## Land-imagery pipeline artifacts (not yet covered this cycle)
+## Land-imagery pipeline artifacts
+
+- **Multi-provider stitching seams — first citation (2026-10-11)**: a 2021 viral claim that
+  Google Earth was "blocking" a section of the Suez Canal (visibly darker blue than surrounding
+  water). Directly fetched (PolitiFact, rated the underlying claim **False**): Google's own
+  imagery expert, Matt Manolides, states imagery is compiled from many providers "taken on
+  different dates and under different lighting and weather conditions," producing visible seams
+  especially over water. The same visual effect was independently found at three other
+  unrelated locations (Panama Canal, Straits of Gibraltar, Loch Ness), supporting that this is a
+  general pipeline artifact, not a location-specific anomaly.
+- Cloud/shadow rendering and 3D-mesh glitches remain not yet covered.
 
 Cloud/shadow misclassification, flight-pass stitching seams, 3D-mesh rendering glitches specific to
 terrain-view rendering. Named in the project's own scope (`config/sidequests.md` SQ-2) but not yet
