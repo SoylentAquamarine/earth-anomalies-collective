@@ -51,8 +51,11 @@ search was genuinely exhausted.)_
   fault lines/lineaments (NASA/USGS-cross-checked, explicitly disclosing documented non-tectonic
   false-positive cases), oxbow lakes/meander scars (Britannica), and agricultural center-pivot/contour
   patterns (USGS + NASA-quoted). Five of six/seven natural-formation categories now cited; only
-  volcanic/impact structures remains. The entire human-made-explanations section and land-imagery-pipeline
-  categories remain unverified placeholders — the clearest remaining gap.
+  volcanic/impact structures remains. **Update (2026-10-11)**: volcanic/impact structures now cited too
+  (NASA's own paired Emi Koussi/Aorounga example, plus two documented real confusion cases) — **all seven
+  natural-formation categories are complete**. See
+  `logs/2026-10-11-sq2-volcanic-impact-citation-completes-list.md`. The human-made-explanations section and
+  land-imagery-pipeline categories remain unverified placeholders — now the sole remaining gap.
 - What previously publicized "Google Earth anomaly" claims have an
   already-documented resolution this project should catalog before
   anyone proposes them again? See SQ-3 — **partially answered

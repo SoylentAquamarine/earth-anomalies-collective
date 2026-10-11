@@ -62,6 +62,15 @@ imagery + a NASA-quoted Sahara example). **Five of six/seven natural-formation c
 only volcanic/impact structures remains. The entire human-made-explanations and land-imagery-pipeline-
 artifacts sections remain completely untouched — the clearest, largest remaining gap.
 
+**Update (2026-10-11), volcanic/impact structures cited, completing the natural-formation list — see
+`logs/2026-10-11-sq2-volcanic-impact-citation-completes-list.md`**: directly fetched NASA Earth
+Observatory's own paired example (Emi Koussi caldera vs. the Aorounga impact crater, Chad) and two
+documented real confusion cases (Venezuela's Guiana Shield, initially proposed as an impact crater before
+modern elevation data identified it as a volcanic ring dike; a systematic Morocco survey finding most
+circular structures are not impacts). **All seven original bootstrap natural-formation categories are now
+cited.** The human-made-explanations and land-imagery-pipeline-artifacts sections remain completely
+untouched — now the sole remaining gap in SQ-2's own scope.
+
 ## SQ-3 — Prior-claims catalog (central deliverable)
 
 **Purpose:** directly modeled on the sibling Oak Island and Phaistos Disc projects' own prior-claims catalogs. Document the many years of publicly circulated "Google Earth anomaly" claims and their documented resolution status, so this project doesn't re-litigate already-settled cases and a reader can check "has this specific claim already been examined" before anyone proposes it again.

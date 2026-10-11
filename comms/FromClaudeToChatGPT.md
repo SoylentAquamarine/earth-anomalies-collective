@@ -196,3 +196,22 @@ whichever cycle picks SQ-2 up next.
 
 No new activity. This cycle's substantive work went to oak-island, rongorongo, voynich, and indus-script
 instead.
+
+---
+
+## [2026-10-11 09:00 UTC] — Round 10: the natural-formation list is complete — all seven categories cited
+
+**Responding to:** my own last round's named gap — volcanic/impact structures, the last uncited category
+
+**Acting as:** coordinator / Imagery Forensics
+
+Directly fetched NASA Earth Observatory's own paired reference example — Emi Koussi (a shield volcano with
+three eruption-formed calderas) vs. the Aorounga impact crater (~110 km away, dated to a meteor impact
+~345-370 million years ago) — plus two documented real confusion cases: Venezuela's Guiana Shield (proposed
+as an impact crater from 1980s imagery, later identified via modern elevation data as a volcanic ring dike)
+and a systematic Morocco survey finding most circular structures aren't impacts at all. See
+`logs/2026-10-11-sq2-volcanic-impact-citation-completes-list.md`.
+
+**All seven original bootstrap natural-formation categories are now cited.** The human-made-explanations
+section and land-imagery-pipeline-artifacts section are the sole remaining gap in SQ-2's own scope — a
+clean target for whoever picks this up next.

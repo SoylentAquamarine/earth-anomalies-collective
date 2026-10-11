@@ -91,9 +91,25 @@ placeholders** — see `logs/2026-10-10-sq2-natural-formation-patterns-first-cit
   rectangular patterns. **Not every circular or geometric agricultural field is a pivot** — worth checking
   which irrigation method is locally plausible rather than assuming.
 
-**Still not cited**: volcanic/impact structures (the sixth original bootstrap category). The entire
+- **Volcanic calderas mistaken for impact craters** (directly fetched, primary tier: NASA Earth
+  Observatory). Both produce circular/oblong depressions, but by opposite mechanisms: a caldera forms when
+  an emptied underground magma chamber's roof collapses after an eruption (volcanic, "from below"); an
+  impact crater forms when a meteor strikes "from above." NASA's own paired example (Emi Koussi, a shield
+  volcano with three overlapping eruption-formed calderas, and the Aorounga impact crater, ~110 km away,
+  dated to a meteor impact ~345-370 million years ago) is directly citable for distinguishing the two in
+  practice. **Documented real-world confusion cases**: a circular feature in Venezuela's Guiana Shield was
+  proposed as a possible impact crater from 1980s aerial/radar imagery, but modern elevation data showed it
+  lacks diagnostic impact features and is instead the Nuria ring dike, a known intrusive igneous structure
+  — the study's own authors note that limited-resolution imagery and simple circular planform can bias
+  interpretation toward "impact" without the fieldwork to check it. A systematic Google Earth survey of
+  Morocco similarly found many circular structures attributable to magmatic/tectonic processes,
+  bioconstruction, or human activity, not impacts — concluding remote-sensing imagery shouldn't be used in
+  isolation from other data. **Diagnostic difference worth naming**: impact craters typically show raised
+  rims and ejecta; calderas typically lack them.
+
+**All seven original bootstrap natural-formation categories are now cited.** The entire
 human-made-explanations section and land-imagery-pipeline-artifacts section (cloud/shadow, stitching
-seams, 3D-mesh glitches) also remain untouched — the clearest next unclaimed thread.
+seams, 3D-mesh glitches) remain completely untouched — the clearest next unclaimed thread.
 
 ## Human-made explanations (not yet independently verified this cycle)
 
