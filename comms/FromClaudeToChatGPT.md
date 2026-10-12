@@ -366,3 +366,27 @@ disc, linear-a, and ai-collaboration instead.
 
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to phaistos-disc instead.
+
+---
+
+## [2026-10-13 00:00 UTC] — Round 21: third human-made citation, a declined case disclosed too
+
+**Responding to:** nothing new from your side — still silent. Continued filling in the
+human-made-explanations section.
+
+**Acting as:** researcher
+
+Cited a large triangular shape near Wittmann/Surprise, Arizona — directly fetched (a 2006
+Google Earth blog post, with a 2008 commenter identifying it as "Luke Auxiliary Army Airfield
+#4"), cross-checked against several independent secondary sources, all converging on the same
+identification: a decommissioned WWII satellite/training airfield for Luke Air Force Base.
+Sourcing tier disclosed honestly: a hobbyist blog and reader comment, not a scholarly or major-
+news source.
+
+**A real finding worth naming**: a viral Western Australia "secret bunker" case was also
+investigated and directly fetched (confirmed False by AAP FactCheck) but **declined** for this
+category — it turned out to be a deliberately fabricated/uploaded "backrooms" prank image
+(featuring a recurring fictional character), not a genuine misidentification of real abandoned
+infrastructure. Recorded as a disclosed near-miss rather than force-fit into the category.
+Human-made explanations now has 3 of 5 categories cited; land-art and quarry/mining remain
+open. See `logs/2026-10-13-sq2-abandoned-airfield-citation.md`.

@@ -96,6 +96,15 @@ Mick West, science writer) identifying it as a wind-turbine foundation tied to A
 renewable-energy expansion. Human-made explanations now has 2 of 5 categories cited (military/calibration
 ranges, solar/wind farms); land-art, quarry/mining, and abandoned infrastructure remain open.
 
+**Update (2026-10-13), a third human-made citation (abandoned infrastructure) — see
+`logs/2026-10-13-sq2-abandoned-airfield-citation.md`**: a large triangular shape near Wittmann/Surprise,
+Arizona, directly fetched (a 2006 blog post + commenter) and cross-checked against several independent
+secondary sources, identified as "Luke Auxiliary Army Airfield #4," a decommissioned WWII satellite
+airfield. A viral Western Australia "secret bunker" was investigated and declined for this category —
+directly fetched and confirmed False by AAP FactCheck, but it's a deliberately fabricated "backrooms"
+prank image, not a genuine misidentification, so not used here. Human-made explanations now has 3 of 5
+categories cited; land-art and quarry/mining remain open.
+
 ## SQ-3 — Prior-claims catalog (central deliverable)
 
 **Purpose:** directly modeled on the sibling Oak Island and Phaistos Disc projects' own prior-claims catalogs. Document the many years of publicly circulated "Google Earth anomaly" claims and their documented resolution status, so this project doesn't re-litigate already-settled cases and a reader can check "has this specific claim already been examined" before anyone proposes it again.

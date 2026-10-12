@@ -69,7 +69,14 @@ search was genuinely exhausted.)_
   human-made citation — a viral Sahara "UFO" (Bordj Omar Driss, Algeria) directly fetched and
   traced to two named experts (Nick Pope, former UK MoD UFO investigator; Mick West, science
   writer) identifying it as a wind-turbine foundation tied to Algeria's documented renewable-
-  energy expansion. See `logs/2026-10-12-sq2-wind-turbine-foundation-citation.md`.
+  energy expansion. See `logs/2026-10-12-sq2-wind-turbine-foundation-citation.md`. **Update
+  (2026-10-13)**: a third human-made citation (abandoned infrastructure) — a triangular shape
+  near Wittmann/Surprise, Arizona, identified via a directly-fetched 2006 blog post and
+  commenter as "Luke Auxiliary Army Airfield #4," a decommissioned WWII satellite airfield,
+  cross-checked against several independent secondary sources. A viral WA "secret bunker" case
+  was investigated and declined — confirmed False by AAP FactCheck, but a deliberately
+  fabricated "backrooms" prank image, not a genuine misidentification. Human-made explanations
+  now has 3 of 5 categories cited. See `logs/2026-10-13-sq2-abandoned-airfield-citation.md`.
 - What previously publicized "Google Earth anomaly" claims have an
   already-documented resolution this project should catalog before
   anyone proposes them again? See SQ-3 — **partially answered

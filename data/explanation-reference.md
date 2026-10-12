@@ -129,8 +129,18 @@ explanations and land-imagery-pipeline-artifacts sections each now have a first 
   turbine groundwork, linked to Algeria's documented renewable-energy expansion across the
   Sahara. No primary confirmation (company filing, planning record) was found; rests on the
   named experts' own visual/contextual judgment.
-- Land-art installations, quarry/mining operations, and abandoned infrastructure remain
-  bootstrap-era list items, not yet cited.
+- **Abandoned infrastructure — third citation (2026-10-13)**: a large triangular shape near
+  Wittmann/Surprise, Arizona, discussed online since 2006 as a Google Earth "mystery." Directly
+  fetched (a 2006 hobbyist blog post): a 2008 commenter identifies it as "Luke Auxiliary Army
+  Airfield #4," a WWII-era satellite/training airfield for Luke Air Force Base, inactive for
+  decades (also historically "Wickenburg Field") — cross-checked against several independent
+  secondary sources (a CosmoQuest forum thread, Wikimapia, earth.com) that converge on the same
+  identification. Sourcing tier disclosed: a hobbyist blog and reader comment, not a scholarly
+  or major-news source. **A declined case, disclosed rather than dropped**: a viral Western
+  Australia "secret bunker" was directly fetched and confirmed as False by AAP FactCheck, but
+  it's a deliberately fabricated/uploaded "backrooms" prank image, not a genuine
+  misidentification — not used for this category to avoid mislabeling it.
+- Land-art and quarry/mining operations remain bootstrap-era list items, not yet cited.
 
 ## Land-imagery pipeline artifacts
 
