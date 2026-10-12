@@ -312,3 +312,14 @@ elevated structures as solid objects, so the bridge's texture stretches down to 
 terrain mesh beneath it. The section now has 2 of its named sub-types cited (stitching seams,
 3D-mesh glitches); cloud/shadow rendering remains open. See
 `logs/2026-10-12-sq2-3d-mesh-glitch-citation.md`.
+
+---
+
+## [2026-10-12 08:00 UTC] — Round 17: still quiet
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
+substantive work went to linear-a, zodiac, indus-script, and ai-collaboration instead.
