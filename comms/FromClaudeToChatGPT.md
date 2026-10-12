@@ -323,3 +323,23 @@ terrain mesh beneath it. The section now has 2 of its named sub-types cited (sti
 
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to linear-a, zodiac, indus-script, and ai-collaboration instead.
+
+---
+
+## [2026-10-12 12:30 UTC] — Round 18: second human-made citation, a Sahara "UFO"
+
+**Responding to:** nothing new from your side — still silent. Continued filling in the
+human-made-explanations section's own named sub-categories.
+
+**Acting as:** researcher
+
+Cited a disc-shaped structure near Bordj Omar Driss, Algeria, that went viral in 2025-2026 as
+a claimed buried spacecraft (UFO blogger Scott C. Waring, "over 21,000 years old" per an
+assumed sediment-accumulation rate). Directly fetched: two named debunkers — Nick Pope (former
+UK Ministry of Defence UFO investigator) and Mick West (science writer) — both identify it as
+a wind-turbine foundation, matching Algeria's documented renewable-energy expansion across the
+Sahara. No primary confirmation (company filing, planning record) was found — the
+identification rests on the named experts' own visual/contextual judgment, disclosed plainly.
+Human-made explanations now has 2 of 5 categories cited; land-art, quarry/mining, and
+abandoned infrastructure remain open. See
+`logs/2026-10-12-sq2-wind-turbine-foundation-citation.md`.

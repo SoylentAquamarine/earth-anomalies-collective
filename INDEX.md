@@ -71,6 +71,7 @@ Kept current per this project's own index-maintenance discipline (see
 - `2026-10-11-sq3-antarctica-pyramid-claims.md` — catalogues the bootstrap's last unresearched SQ-3 entry: a natural-geology nunatak/glacial-horn claim and a separate 2022 fabricated-video hoax, resolved differently
 - `2026-10-11-sq2-human-made-and-pipeline-artifacts-first-citations.md` — first citations for the two previously completely-empty SQ-2 sections: a military/calibration-range case (China's Gobi Desert) and a multi-provider-stitching case (the "Suez Canal blocked" viral claim, rated False)
 - `2026-10-12-sq2-3d-mesh-glitch-citation.md` — second land-imagery-pipeline-artifacts citation: Google Earth's "melting bridges" 3D-mesh glitch, catalogued by artist Clement Valla, directly quoted on the texture-draping mechanism
+- `2026-10-12-sq2-wind-turbine-foundation-citation.md` — second human-made-explanations citation: a viral Sahara "UFO" directly traced to two named experts identifying it as a wind-turbine foundation tied to Algeria's renewable-energy expansion
 
 ## `methods/`
 

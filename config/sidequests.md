@@ -89,6 +89,13 @@ Land-imagery-pipeline-artifacts section now has 2 of its named sub-types cited (
 glitches); cloud/shadow rendering remains open. Human-made explanations still has 3 of 5 named categories
 uncited.
 
+**Update (2026-10-12), second human-made citation — see
+`logs/2026-10-12-sq2-wind-turbine-foundation-citation.md`**: a viral Sahara "UFO" (near Bordj Omar Driss,
+Algeria) directly fetched and traced to two named experts (Nick Pope, former UK MoD UFO investigator;
+Mick West, science writer) identifying it as a wind-turbine foundation tied to Algeria's documented
+renewable-energy expansion. Human-made explanations now has 2 of 5 categories cited (military/calibration
+ranges, solar/wind farms); land-art, quarry/mining, and abandoned infrastructure remain open.
+
 ## SQ-3 — Prior-claims catalog (central deliverable)
 
 **Purpose:** directly modeled on the sibling Oak Island and Phaistos Disc projects' own prior-claims catalogs. Document the many years of publicly circulated "Google Earth anomaly" claims and their documented resolution status, so this project doesn't re-litigate already-settled cases and a reader can check "has this specific claim already been examined" before anyone proposes it again.

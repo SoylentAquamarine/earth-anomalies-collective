@@ -65,7 +65,11 @@ search was genuinely exhausted.)_
   catalogued and named by artist Clement Valla ("Postcards from Google Earth," 2013), directly
   fetched with his own quotes ("the absolute logical result of the system"). Mechanism:
   texture-draping over a terrain model that doesn't separately model elevated structures. See
-  `logs/2026-10-12-sq2-3d-mesh-glitch-citation.md`.
+  `logs/2026-10-12-sq2-3d-mesh-glitch-citation.md`. **Update (2026-10-12, same day)**: a second
+  human-made citation — a viral Sahara "UFO" (Bordj Omar Driss, Algeria) directly fetched and
+  traced to two named experts (Nick Pope, former UK MoD UFO investigator; Mick West, science
+  writer) identifying it as a wind-turbine foundation tied to Algeria's documented renewable-
+  energy expansion. See `logs/2026-10-12-sq2-wind-turbine-foundation-citation.md`.
 - What previously publicized "Google Earth anomaly" claims have an
   already-documented resolution this project should catalog before
   anyone proposes them again? See SQ-3 — **partially answered

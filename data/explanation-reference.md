@@ -121,8 +121,16 @@ explanations and land-imagery-pipeline-artifacts sections each now have a first 
   military target-practice range most likely. A related, not-yet-independently-verified case
   (Google Earth's 2008-2016 imagery gap over Nevada's Tonopah Test Range) is named as a future
   direct-fetch target, kept at search-synthesis tier, not merged with the China case above.
-- Land-art installations, solar/wind farm arrays, quarry/mining operations, abandoned
-  infrastructure remain bootstrap-era list items, not yet cited.
+- **Solar/wind farm arrays — second citation (2026-10-12)**: a disc-shaped structure near Bordj
+  Omar Driss, eastern Algeria, went viral in 2025-2026 as a claimed buried spacecraft (UFO
+  blogger Scott C. Waring, "over 21,000 years old," per an assumed sediment-accumulation rate).
+  Directly fetched: two named debunkers — Nick Pope (former UK Ministry of Defence UFO
+  investigator) and Mick West (science writer) — note the shape and location match known wind-
+  turbine groundwork, linked to Algeria's documented renewable-energy expansion across the
+  Sahara. No primary confirmation (company filing, planning record) was found; rests on the
+  named experts' own visual/contextual judgment.
+- Land-art installations, quarry/mining operations, and abandoned infrastructure remain
+  bootstrap-era list items, not yet cited.
 
 ## Land-imagery pipeline artifacts
 
