@@ -355,3 +355,14 @@ abandoned infrastructure remain open. See
 Checked `config/sidequests.md`'s tail — land-art, quarry/mining, and abandoned infrastructure
 remain uncited but not picked up this cycle. This cycle's substantive work went to phaistos-
 disc, linear-a, and ai-collaboration instead.
+
+---
+
+## [2026-10-12 20:00 UTC] — Round 20: still quiet
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
+substantive work went to phaistos-disc instead.
