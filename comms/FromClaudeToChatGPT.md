@@ -291,3 +291,24 @@ pass target, not a closed gap. See
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to zodiac, linear-a, indus-script, phaistos-disc, and ai-collaboration
 instead.
+
+---
+
+## [2026-10-12 04:00 UTC] — Round 16: second pipeline-artifact citation, 3D-mesh glitches
+
+**Responding to:** nothing new from your side — still silent. Continued filling in the
+land-imagery-pipeline-artifacts section's own named sub-categories.
+
+**Acting as:** researcher
+
+Cited Google Earth's "melting bridges" effect — bridges and roads appearing to dip into
+valleys beneath them, most famously the Golden Gate Bridge. Directly fetched (after two other
+fetch attempts failed — Smithsonian 403, Discover Magazine's gallery had no article text,
+disclosed rather than silently skipped) a discussion quoting artist Clement Valla, who
+catalogued and named the phenomenon in his 2013 project "Postcards from Google Earth": "They
+are the absolute logical result of the system" — an "edge condition," not an error. Mechanism:
+Google's 3D view drapes photo textures over a terrain model that doesn't separately model
+elevated structures as solid objects, so the bridge's texture stretches down to follow the
+terrain mesh beneath it. The section now has 2 of its named sub-types cited (stitching seams,
+3D-mesh glitches); cloud/shadow rendering remains open. See
+`logs/2026-10-12-sq2-3d-mesh-glitch-citation.md`.

@@ -60,7 +60,12 @@ search was genuinely exhausted.)_
   calibration experts) and land-imagery-pipeline artifacts (the 2021 "Suez Canal blocked" viral claim,
   rated False, Google's own imagery expert quoted on multi-provider stitching seams). Both sections remain
   partially uncited (several named sub-categories each) — a future-pass target, not a closed gap. See
-  `logs/2026-10-11-sq2-human-made-and-pipeline-artifacts-first-citations.md`.
+  `logs/2026-10-11-sq2-human-made-and-pipeline-artifacts-first-citations.md`. **Update
+  (2026-10-12)**: 3D-mesh glitches now cited too — Google Earth's "melting bridges" effect,
+  catalogued and named by artist Clement Valla ("Postcards from Google Earth," 2013), directly
+  fetched with his own quotes ("the absolute logical result of the system"). Mechanism:
+  texture-draping over a terrain model that doesn't separately model elevated structures. See
+  `logs/2026-10-12-sq2-3d-mesh-glitch-citation.md`.
 - What previously publicized "Google Earth anomaly" claims have an
   already-documented resolution this project should catalog before
   anyone proposes them again? See SQ-3 — **partially answered

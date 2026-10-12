@@ -134,7 +134,17 @@ explanations and land-imagery-pipeline-artifacts sections each now have a first 
   especially over water. The same visual effect was independently found at three other
   unrelated locations (Panama Canal, Straits of Gibraltar, Loch Ness), supporting that this is a
   general pipeline artifact, not a location-specific anomaly.
-- Cloud/shadow rendering and 3D-mesh glitches remain not yet covered.
+- **3D-mesh "melting" glitches — second citation (2026-10-12)**: bridges, roads, and other
+  elevated structures appear to "melt" or dip into the ravines/valleys beneath them (most
+  famously the Golden Gate Bridge), catalogued and named by artist Clement Valla in his 2013
+  project "Postcards from Google Earth." Directly fetched (a discussion of Valla's own essay,
+  quoting him directly): "They are the absolute logical result of the system" — an "edge
+  condition," not an error, revealing imagery built from "dynamic, ever-changing data from a
+  myriad of different sources" combined into "a seamless illusion." Mechanism: Google's 3D view
+  drapes photo textures over a terrain model that doesn't separately model elevated structures
+  as solid objects, so the bridge's flat photo texture stretches down to follow the terrain mesh
+  beneath it.
+- Cloud/shadow rendering remains not yet covered.
 
 Cloud/shadow misclassification, flight-pass stitching seams, 3D-mesh rendering glitches specific to
 terrain-view rendering. Named in the project's own scope (`config/sidequests.md` SQ-2) but not yet

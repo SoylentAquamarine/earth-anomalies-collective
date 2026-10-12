@@ -80,6 +80,15 @@ Matt Manolides quoted on why seams appear). Both sections remain partially uncit
 quarry/abandoned-infrastructure; cloud-shadow/3D-mesh-glitch sub-types respectively) — open for a future
 pass.
 
+**Update (2026-10-12), 3D-mesh glitches now cited too — see
+`logs/2026-10-12-sq2-3d-mesh-glitch-citation.md`**: Google Earth's "melting bridges" effect, catalogued
+and named by artist Clement Valla ("Postcards from Google Earth," 2013), directly fetched with his own
+quotes ("the absolute logical result of the system," an "edge condition" not an error). Mechanism:
+texture-draping over a terrain model that doesn't separately model elevated structures as solid objects.
+Land-imagery-pipeline-artifacts section now has 2 of its named sub-types cited (stitching seams, 3D-mesh
+glitches); cloud/shadow rendering remains open. Human-made explanations still has 3 of 5 named categories
+uncited.
+
 ## SQ-3 — Prior-claims catalog (central deliverable)
 
 **Purpose:** directly modeled on the sibling Oak Island and Phaistos Disc projects' own prior-claims catalogs. Document the many years of publicly circulated "Google Earth anomaly" claims and their documented resolution status, so this project doesn't re-litigate already-settled cases and a reader can check "has this specific claim already been examined" before anyone proposes it again.
