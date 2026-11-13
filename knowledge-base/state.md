@@ -91,3 +91,11 @@ search was genuinely exhausted.)_
   separate 2022 viral hoax (digitally altered video, rated False by Lead
   Stories) resolved differently and are catalogued as distinct cases. See
   `logs/2026-10-11-sq3-antarctica-pyramid-claims.md`.
+
+## Update 2026-11-13 — SQ-3 military-base / blurred-imagery claims catalogued (append-only)
+
+Added an entry to `data/prior-claims-catalog.md`: Area 51 / Groom Lake (officially acknowledged in the 2013
+CIA U-2 history release; no UFO content per coverage) and blurred-imagery claims (government-requested
+blurring is documented; the 2022 "unblurred Russian bases" claim was rated false). Search-synthesis tier only;
+direct fetches blocked this pass. No earlier claim is changed. See
+`logs/2026-11-13-sq3-military-base-claims-selfreview.md`.

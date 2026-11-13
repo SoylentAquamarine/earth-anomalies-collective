@@ -81,3 +81,4 @@ Kept current per this project's own index-maintenance discipline (see
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+- `logs/2026-11-13-sq3-military-base-claims-selfreview.md` — SQ-3 military-base / blurred-imagery catalog entry (precommitment + result)

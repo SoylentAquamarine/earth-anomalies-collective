@@ -98,3 +98,30 @@ misidentification.
 Science/Snopes sources everyone traces back to were themselves inaccessible this pass
 (paywall/not locatable) — see `logs/2026-10-11-sq3-antarctica-pyramid-claims.md` for the full
 disclosed limitation.
+
+## "Secret military base" and blurred-imagery claims (Area 51 / Groom Lake; obscured sites) — added 2026-11-13
+
+**Claim family A — "a secret base the government denies" (Area 51 / Groom Lake, Nevada).** Long-circulating
+claim that the installation is hidden or undisclosed, often coupled with UFO claims.
+**Resolution — Explained (documented, acknowledged installation).** Per news coverage (CBS, CBC, NPR, Las
+Vegas Sun) and the National Security Archive's own pages, an August 2013 release of a CIA history of the U-2
+and OXCART programs (a 1992 internal history, first declassified with heavy redactions in 1998, further
+unredacted after a 2005 FOIA request by the National Security Archive) explicitly refers to Area 51 / Groom
+Lake as a CIA-developed test site chosen in 1955 for the U-2 program. Coverage states the release makes no
+mention of aliens or spacecraft. So "existence of the base" is officially acknowledged; the UFO overlay is
+not supported by that document (absence of mention is not proof of absence, and this entry does not claim it
+is).
+
+**Claim family B — "blurred or pixelated areas prove a cover-up".**
+**Resolution — Explained (documented imagery policy), with one partially non-mundane component.** Per FAS
+(Federation of American Scientists) commentary and 2022 fact-check coverage, some governments have requested
+that providers show blurred imagery of certain military facilities (reported examples: Belgium, France,
+Germany, South Korea). This is a real, documented, government-requested practice, not an anomaly. A separate
+2022 viral claim that Google "unblurred" Russian bases after the Ukraine invasion was rated false by
+PolitiFact; Google stated it made no blurring changes in Russia, and a Russian outlet had published sharp
+images of the same base crediting Google Earth in 2015 and 2021.
+
+**Evidentiary tier:** search-synthesis only. Direct fetches of nsarchive.gwu.edu and politifact.com failed
+this pass (host not resolvable from this session's allowed network), and the primary CIA document was not
+opened. Flagged for upgrade when those hosts are reachable. No private individual is named; no site-visit
+guidance is given or implied.
