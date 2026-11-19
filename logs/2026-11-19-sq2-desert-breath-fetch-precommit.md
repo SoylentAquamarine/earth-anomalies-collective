@@ -19,3 +19,14 @@ Roughly 50% that at least one host resolves with a usable body.
 ## Honesty precommitment
 If a fetch returns the article, cite it with its fetched tier; if every host is blocked, log a disclosed null and
 leave land-art uncited. A contradiction of the snippet-derived details will be reported and corrected, not hidden.
+
+## Result (appended after execution) — disclosed null on fetch; search-synthesis corroboration only
+One WebSearch plus two WebFetch attempts (livescience.com, en.wikipedia.org): both hosts failed DNS resolution
+(not on the session's network allow-list). No article body was read. The search results did add independent
+corroboration at snippet level: many unrelated outlets (Live Science, Gizmodo, Colossal, Egyptian Streets,
+Euro Weekly News, My Modern Met) list the same creators (D.A.ST. Arteam: Danae Stratou, Alexandra Stratou, Stella
+Constantinides), 1997 completion, a double spiral near the Red Sea, and Google Earth users noticing it in Nov 2013.
+That strengthens confidence but is still search-synthesis tier, not fetched. Minor discrepancy: location is given as
+near Hurghada (Wikipedia snippet) or near El Gouna (others). Not added to data/explanation-reference.md; land-art
+stays "candidate found, uncited". Prediction (~50% a host resolves): not met.
+Next step: allow-list en.wikipedia.org / livescience.com / space.com for WebFetch, then cite Desert Breath at fetched tier.

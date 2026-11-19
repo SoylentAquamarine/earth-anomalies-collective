@@ -112,3 +112,9 @@ claim is changed; human-made explanations remains 3 of 5 cited. See
 Desert Breath (Egypt, 1997, D.A.ST.) identified as a strong land-art case; sourcing is search-synthesis only
 because nbcnews.com is not fetchable. Human-made explanations stays at 3 of 5 cited. No earlier claim changed.
 See `logs/2026-11-19-sq2-land-art-citation-precommit.md`.
+
+## Update 2026-11-19 — SQ-2 Desert Breath fetch attempt: still blocked (append-only)
+
+Fetch of livescience.com and en.wikipedia.org failed (hosts not allow-listed). Search results from many outlets agree
+on creators, 1997 date and the Nov 2013 Google Earth attention, but nothing was fetched. Human-made explanations
+stays at 3 of 5 cited. No earlier claim changed. See `logs/2026-11-19-sq2-desert-breath-fetch-precommit.md`.
