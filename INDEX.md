@@ -73,6 +73,7 @@ Kept current per this project's own index-maintenance discipline (see
 - `2026-10-12-sq2-3d-mesh-glitch-citation.md` — second land-imagery-pipeline-artifacts citation: Google Earth's "melting bridges" 3D-mesh glitch, catalogued by artist Clement Valla, directly quoted on the texture-draping mechanism
 - `2026-10-12-sq2-wind-turbine-foundation-citation.md` — second human-made-explanations citation: a viral Sahara "UFO" directly traced to two named experts identifying it as a wind-turbine foundation tied to Algeria's renewable-energy expansion
 - `2026-10-13-sq2-abandoned-airfield-citation.md` — third human-made-explanations citation (abandoned infrastructure): a triangular shape in Arizona identified as a decommissioned WWII airfield; a viral WA "secret bunker" case investigated and declined as a fabricated prank image, not a genuine misidentification
+- `2026-11-19-sq2-quarry-mining-citation-precommit.md` — precommitment + disclosed null for a quarry/mining human-made-explanation citation (no qualifying source found; category stays uncited)
 
 ## `methods/`
 

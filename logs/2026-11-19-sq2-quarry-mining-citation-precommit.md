@@ -22,3 +22,14 @@ the search could return only forum-tier sources, or a fabricated-image case that
 ## Honesty precommitment
 Report the sourcing tier as found. If direct fetch is blocked, say so and label the result
 search-synthesis tier. If no honest case turns up, log a disclosed null and leave the category uncited.
+
+## Result (appended after execution) — disclosed null, category stays uncited
+One WebSearch run. Results: no source describing a viral anomaly claim traced to a mine/quarry by a named
+third party. The only mine-adjacent hits were (a) a listicle noting Kennecott Copper Mine is visible from
+space (a landmark, not a misidentification case) and (b) a Pacific "black hole" Google Maps story whose
+mine/pit explanation came from a low-quality blog; the Live Science write-up of that story could not be
+fetched (host www.livescience.com does not resolve from this session's network allow-list). So I could not
+verify who explains it or whether a pit is involved. Neither qualifies. The prediction (a usable case at
+airfield-citation tier) was **not met**. Nothing added to data/explanation-reference.md. Human-made
+explanations stays at 3 of 5 cited; land-art and quarry/mining remain open. Next attempt needs
+www.livescience.com (or similar news hosts) allowed for WebFetch, or a different search angle.

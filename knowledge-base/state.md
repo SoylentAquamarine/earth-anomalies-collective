@@ -99,3 +99,10 @@ CIA U-2 history release; no UFO content per coverage) and blurred-imagery claims
 blurring is documented; the 2022 "unblurred Russian bases" claim was rated false). Search-synthesis tier only;
 direct fetches blocked this pass. No earlier claim is changed. See
 `logs/2026-11-13-sq3-military-base-claims-selfreview.md`.
+
+## Update 2026-11-19 — SQ-2 quarry/mining citation attempt: disclosed null (append-only)
+
+One search pass for a quarry/mining misidentification case found no qualifying source (only a landmark
+listicle and a low-quality-blog "black hole" pit claim whose better source was unfetchable). No earlier
+claim is changed; human-made explanations remains 3 of 5 cited. See
+`logs/2026-11-19-sq2-quarry-mining-citation-precommit.md`.
