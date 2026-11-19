@@ -106,3 +106,9 @@ One search pass for a quarry/mining misidentification case found no qualifying s
 listicle and a low-quality-blog "black hole" pit claim whose better source was unfetchable). No earlier
 claim is changed; human-made explanations remains 3 of 5 cited. See
 `logs/2026-11-19-sq2-quarry-mining-citation-precommit.md`.
+
+## Update 2026-11-19 — SQ-2 land-art attempt: candidate found, not yet cited (append-only)
+
+Desert Breath (Egypt, 1997, D.A.ST.) identified as a strong land-art case; sourcing is search-synthesis only
+because nbcnews.com is not fetchable. Human-made explanations stays at 3 of 5 cited. No earlier claim changed.
+See `logs/2026-11-19-sq2-land-art-citation-precommit.md`.

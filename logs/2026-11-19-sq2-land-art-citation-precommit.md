@@ -20,3 +20,14 @@ unfetchable news host again.
 ## Honesty precommitment
 Report sourcing tier as found; label search-synthesis if fetch is blocked; if nothing qualifies, log a disclosed
 null and leave the category uncited.
+
+## Result (appended after execution) — partial: candidate identified, search-synthesis tier only
+One WebSearch. Candidate: **Desert Breath** (Egypt, near El Gouna/Red Sea), a 1997 land-art installation by the
+D.A.ST. collective, ~100,000 m2, that circulated as a "mysterious spiral" seen on Google Maps (headlines from
+NBC News, Space.com, CS Monitor, IBTimes in 2014; the NBC piece's URL slug also reads "aliens-art-project-egypts-
+mysterious-spirals-explained"). Direct fetch of www.nbcnews.com failed (host not on the session's network
+allow-list), so I did NOT read any article body; details above come from search-result snippets/summary only.
+Prediction (even odds of a usable case): partially met — a strong candidate exists, but it does not reach
+fetched/named-source tier. NOT added to data/explanation-reference.md; land-art stays "candidate found, uncited".
+Other hits (Las Vegas desert artwork, Krefeld car, Prato Nevoso rabbit) are listicle-tier, unverified.
+Next step: fetch space.com or csmonitor.com (try those hosts) or get nbcnews.com allow-listed, then cite Desert Breath.
